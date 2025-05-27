@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "87e0cf72bd615154",
+    "type": "split",
+    "children": [
+      {
+        "id": "76575226737a63d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "24f70b2e5d469b53",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4822ddbfd2c78835",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef52f8db1a5930b8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8e03822c8cc0679",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dedb5f9a2aa2b07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed0fa00340d16f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c499124d07d3cc7f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9a1ffa5498be3fb5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "248edb370989b8cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab9c735098bba157",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3469a6a61ab4fc9f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "b17c3d5bad80ce20",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a38b2a9eb62e2348",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "909fe88c1dbb265f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "24f70b2e5d469b53",
+  "lastOpenFiles": [
+    "1 中国图书馆分类法/U 交通运输/[U8] 航空运输.md",
+    "1 中国图书馆分类法/U 交通运输/[U-9] 交通运输经济.md",
+    "1 中国图书馆分类法/U 交通运输/U6 水路运输.md",
+    "1 中国图书馆分类法/U 交通运输/U4 公路运输.md",
+    "1 中国图书馆分类法/U 交通运输/U2 铁路运输.md",
+    "1 中国图书馆分类法/U 交通运输/U1 综合运输.md",
+    "1 中国图书馆分类法/U 交通运输",
+    "Welcome.md",
+    "README.md.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表/②1 世界/②18 海洋/②182 北太平洋/②182.7 南海/②182.79 北部湾.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表/②1 世界/②18 海洋/②182 北太平洋/②182.7 南海/②182.79 北部湾",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表/②1 世界/②18 海洋/②182 北太平洋/②182.6 东海/②182.69 台湾海峡.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表/②1 世界/②18 海洋/②182 北太平洋/②182.6 东海/②182.69 台湾海峡",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥425 坦桑尼亚人/⑥425.2 马赛人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥425 坦桑尼亚人/⑥425.1 斯瓦希里人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥425 坦桑尼亚人/⑥425.2 马赛人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥425 坦桑尼亚人/⑥425.1 斯瓦希里人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.5 锡达莫人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.4 蒂格雷人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.5 锡达莫人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.3 蒂格赖人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.4 蒂格雷人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.2 加拉人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.3 蒂格赖人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.2 加拉人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.1 安哈拉人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥421 埃塞俄比亚人/⑥421.1 安哈拉人",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥41 北非民族/⑥412 苏丹人/⑥412.3 贝扎人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥41 北非民族/⑥412 苏丹人/⑥412.2 丁卡人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥41 北非民族/⑥412 苏丹人/⑥412.1 努比亚人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥373 伊朗人（波斯人）/⑥373.5 卡什凯人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥373 伊朗人（波斯人）/⑥373.4 巴赫蒂亚里人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥373 伊朗人（波斯人）/⑥373.3 卢里人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥373 伊朗人（波斯人）/⑥373.2 吉兰人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥373 伊朗人（波斯人）/⑥373.1 马赞达兰人.md",
+    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥372 阿富汗人/⑥372.5 吉尔扎伊人.md"
+  ]
+}
