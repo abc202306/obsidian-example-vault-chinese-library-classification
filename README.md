@@ -4,7 +4,9 @@
 This is an Obsidian Example Vault for storing notes on the Classes of the "Chinese Library Classification".
 
 
-## 关系图谱图片
+## 预览图片
+
+![assets/preview-2025-05-31-p01.png](assets/preview-2025-05-31-p01.png)
 
 ![assets/preview-03.png](assets/preview-04.png)
 
