@@ -6,7 +6,7 @@ This is an Obsidian Example Vault for storing notes on the Classes of the "Chine
 
 ## 关系图谱图片
 
-![assets/preview-03.png](assets/preview-03.png)
+![assets/preview-03.png](assets/preview-04.png)
 
 ## 目录
 
@@ -33,3 +33,8 @@ This is an Obsidian Example Vault for storing notes on the Classes of the "Chine
 	- V 航空、航天
 	- X 环境科学、安全科学
 	- Z 综合性图书
+
+## 数据的来源
+
+- 《中国图书馆分类法》数据来源于Github 仓库 [acdzh/Chinese-Library-Classification: CLC, 中图法, 中国图书馆分类法](https://github.com/acdzh/Chinese-Library-Classification)
+- 《中国图书馆分类法》附加的《ZT* 通用概念》和《ZY* 附表》数据来源于 [汉语主题词表服务系统](https://ct.istic.ac.cn/site/organize/index)
