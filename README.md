@@ -65,10 +65,6 @@ This is an Obsidian Example Vault for storing notes on the Classes of the "Chine
 | 类目笔记总行数 | 71532 行  |
 | 类目笔记总字数 | 790060 字 |
 
-## 使用指南
-
-
-
 ## 数据的来源
 
 - 《中国图书馆分类法》数据来源于Github 仓库 [acdzh/Chinese-Library-Classification: CLC, 中图法, 中国图书馆分类法](https://github.com/acdzh/Chinese-Library-Classification)
