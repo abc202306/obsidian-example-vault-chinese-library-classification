@@ -1,17 +1,171 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "-file:README.md",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "path:/",
+      "query": "file:\"1 中国图书馆分类法.md\"",
       "color": {
         "a": 1,
         "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/A 马克思主义、列宁主义、毛泽东思想、邓小平理论\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/B 哲学、宗教\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/C 社会科学总论\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/D 政治、法律\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/E 军事\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/F 经济\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/G 文化、科学、教育、体育\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑧ 通用时间、通用地点、通用环境、人员表\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/J 艺术\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/K 历史、地理\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/① 总论复分表\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/O 数理科学和化学\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/T 工业技术\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑤ 中国时代表\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6053037
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/Q 生物科学\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6052956
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/U 交通运输\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6052956
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/V 航空、航天\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6052956
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/X 环境科学、安全科学\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6052956
+      }
+    },
+    {
+      "query": "path:\"1 中国图书馆分类法/I 文学\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 6052956
       }
     }
   ],
@@ -21,10 +175,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.723958333333333,
+  "centerStrength": 0.505208333333333,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.05852974297757706,
-  "close": true
+  "scale": 0.026456429638568982,
+  "close": false
 }

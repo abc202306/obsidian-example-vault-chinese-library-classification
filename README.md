@@ -3,7 +3,6 @@
 
 This is an Obsidian Example Vault for storing notes on the Classes of the "Chinese Library Classification".
 
-
 ## 预览图片
 
 ![assets/preview-2025-05-31-p01.png](assets/preview-2025-05-31-p01.png)
@@ -44,6 +43,10 @@ This is an Obsidian Example Vault for storing notes on the Classes of the "Chine
 | 类目笔记数量  | 2307 篇   |
 | 类目笔记总行数 | 71532 行  |
 | 类目笔记总字数 | 790060 字 |
+
+## 使用指南
+
+
 
 ## 数据的来源
 
