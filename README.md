@@ -5,9 +5,9 @@ This is an Obsidian Example Vault for storing notes on the Classes of the "Chine
 
 ## 预览图片
 
-![assets/preview-2025-05-31-p01.png](assets/preview-2025-05-31-p01.png)
+![preview-2025-05-31-p01.png](assets/pictures/preview-2025-05-31-p01.png)
 
-![assets/preview-03.png](assets/preview-04.png)
+![assets/preview-03.png](assets/pictures/preview-04.png)
 
 ## 目录
 

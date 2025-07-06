@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 中国图书馆分类法/P 天文学、地球科学/P4 大气科学（气象学）.md",
-                "mode": "preview",
+                "file": "1 中国图书馆分类法/G 文化、科学、教育、体育/G3 科学、科学研究/G35 情报学、情报工作/G354 情报检索.md",
+                "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "P4 大气科学（气象学）"
+              "title": "G354 情报检索"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#HashTag",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 中国图书馆分类法/P 天文学、地球科学/P4 大气科学（气象学）.md",
+                "file": "1 中国图书馆分类法/G 文化、科学、教育、体育/G3 科学、科学研究/G35 情报学、情报工作/G354 情报检索.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for P4 大气科学（气象学）"
+              "title": "Backlinks for G354 情报检索"
             }
           },
           {
@@ -141,15 +142,31 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 中国图书馆分类法/G 文化、科学、教育、体育/G3 科学、科学研究/G35 情报学、情报工作/G354 情报检索.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of G354 情报检索"
+            }
+          },
+          {
+            "id": "3378045f99a10015",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -167,12 +184,22 @@
   },
   "active": "045c8d4916567b93",
   "lastOpenFiles": [
+    "1 中国图书馆分类法.md",
+    "README.md",
+    "assets/pictures/preview-04.png",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育/G3 科学、科学研究/G32 世界各国科学研究事业.md",
+    "assets/pictures",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育/G3 科学、科学研究.md",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育.md",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育/{G6} 各级教育.md",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育/{G6} 各级教育/G61 学前教育、幼儿教育.md",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育/{G5} 世界各国教育事业.md",
+    "1 中国图书馆分类法/G 文化、科学、教育、体育/G4 教育.md",
+    "1 中国图书馆分类法/P 天文学、地球科学/P4 大气科学（气象学）.md",
     "1 中国图书馆分类法/P 天文学、地球科学/P2 测绘学.md",
     "1 中国图书馆分类法/P 天文学、地球科学/P9 自然地理学.md",
     "1 中国图书馆分类法/P 天文学、地球科学/P5 地质学.md",
-    "1 中国图书馆分类法/P 天文学、地球科学/P4 大气科学（气象学）.md",
     "1 中国图书馆分类法/P 天文学、地球科学/P3 地球物理学.md",
-    "1 中国图书馆分类法.md",
     "1 中国图书馆分类法/I 文学.md",
     "1 中国图书馆分类法/J 艺术.md",
     "1 中国图书馆分类法/E 军事.md",
@@ -184,15 +211,6 @@
     "1 中国图书馆分类法/Q 生物科学/Q-1 生物科学现状与发展.md",
     "1 中国图书馆分类法/Q 生物科学/Q98 人类学.md",
     "1 中国图书馆分类法/V 航空、航天.md",
-    "1 中国图书馆分类法/B 哲学、宗教.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B2 中国哲学.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B2 中国哲学/B27 马克思主义哲学在中国的传播与发展.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B2 中国哲学/B234 汉代哲学（公元前 206~公元 220 年）.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B84 心理学.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B84 心理学/B841 心理学研究方法.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B84 心理学/B844 发展心理学（人类心理学）.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B1 世界哲学.md",
-    "1 中国图书馆分类法/B 哲学、宗教/B-4 哲学教育与普及.md",
     "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表/②1 世界/②18 海洋/②182 北太平洋/②182.7 南海",
     "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/② 世界地区表/②1 世界/②18 海洋/②182 北太平洋/②182.6 东海",
     "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥4 非洲民族/⑥42 东非民族/⑥425 坦桑尼亚人",
@@ -202,9 +220,7 @@
     "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥372 阿富汗人",
     "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥371 阿拉伯人",
     "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥35 南亚民族/⑥351 印度民族",
-    "1 中国图书馆分类法/Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥33 东南亚民族/⑥342 印度尼西亚人",
-    "assets/preview-2025-05-31-p01.png",
-    "assets/preview-04.png",
+    "assets/pictures/preview-2025-05-31-p01.png",
     "assets/preview-03.png",
     "Pasted image 20250529104627.png",
     "assets/preview-02.png",
