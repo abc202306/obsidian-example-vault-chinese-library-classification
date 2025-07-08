@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-20
 ctime: 2025-03-20T18:13:08
 english: Marxism, Leninism, Mao Zedong Thought and Deng Xiaoping Theory
@@ -21,7 +21,7 @@ down:
 
 # A 马克思主义、列宁主义、毛泽东思想、邓小平理论
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[A1 马克思、恩格斯著作]]
 		- [[A1 马克思、恩格斯著作|Works of Karl Marx and Friedrich Engels]]

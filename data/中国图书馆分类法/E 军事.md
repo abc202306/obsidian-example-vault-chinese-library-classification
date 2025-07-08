@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:18:48
 english: Military affairs
@@ -20,7 +20,7 @@ down:
 
 # E 军事
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[E0 军事理论]]
 		- [[E0 军事理论|Theories of military]]

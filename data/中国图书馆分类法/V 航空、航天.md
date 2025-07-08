@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:25:51
 english: Aviation,spaceflight
@@ -17,7 +17,7 @@ down:
 
 # V 航空、航天
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[V1 航空、航天技术的研究与探索]]
 		- [[V1 航空、航天技术的研究与探索|Research and exploration of aviation and spaceflight technology]]

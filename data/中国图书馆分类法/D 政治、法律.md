@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2024-12-06
 ctime: 2024-12-06T17:38:40
 english: Politics,law
@@ -24,7 +24,7 @@ down:
 
 # D 政治、法律
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[D0 政治理论]]
 		- [[D0 政治理论|Movement and organizations of labour, peasants, youth and women]]

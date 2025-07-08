@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:22:00
 english: Natural science (General)
@@ -27,7 +27,7 @@ down:
 
 # N 自然科学总论
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[N0 自然科学理论与方法论]]
 		- [[N0 自然科学理论与方法论|Theories and methodology of natural science]]

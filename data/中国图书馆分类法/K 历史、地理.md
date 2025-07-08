@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:21:40
 english: History, geography
@@ -27,7 +27,7 @@ down:
 
 # K 历史、地理
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[K0 史学理论]]
 		- [[K0 史学理论|Theories of historical science]]

@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:26:49
 english: Comprehensive books
@@ -22,7 +22,7 @@ down:
 
 # Z 综合性图书
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[Z1 丛书]] 
 		- [[Z1 丛书|Comprehensive serials]]

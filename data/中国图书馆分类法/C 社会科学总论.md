@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:16:15
 english: Social science (General)
@@ -30,7 +30,7 @@ down:
 
 # C 社会科学总论
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[C0 社会科学理论与方法论]]
 		- [[C0 社会科学理论与方法论|Theories and methodology of social science]]

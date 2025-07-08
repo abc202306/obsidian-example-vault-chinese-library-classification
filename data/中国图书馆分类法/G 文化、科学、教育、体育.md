@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2024-12-06
 ctime: 2024-12-06T17:36:48
 english: Culture, science, education and sport
@@ -22,7 +22,7 @@ down:
 
 # G 文化、科学、教育、体育
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[G0 文化理论]]
 		- [[G0 文化理论|Theories of culture]]

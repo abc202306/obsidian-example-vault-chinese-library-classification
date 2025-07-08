@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[1 中国图书馆分类法]]"
+  - "[[中国图书馆分类法]]"
 date: 2025-03-01
 ctime: 2025-03-01T23:20:30
 english: Language,written language
@@ -31,7 +31,7 @@ down:
 
 # H 语言、文字
 
-- up: [[1 中国图书馆分类法]]
+- up: [[中国图书馆分类法]]
 - down:
 	- [[H0 语言学]]
 		- [[H0 语言学|Linguistics]]
