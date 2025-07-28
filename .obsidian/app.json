@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "vimMode": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest"
 }
