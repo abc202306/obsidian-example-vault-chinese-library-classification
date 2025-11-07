@@ -11,7 +11,7 @@ This is an Obsidian Example Vault for storing notes on the Classes of the "Chine
 
 ## 目录
 
-- [[中国图书馆分类法 Collection]]
+- [[中国图书馆分类法]]
 	- [A 马克思主义、列宁主义、毛泽东思想、邓小平理论](</A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md>)
 		- [Marxism, Leninism, Mao Zedong Thought and Deng Xiaoping Theory](</A 马克思主义、列宁主义、毛泽东思想、邓小平理论.md>)
 	- [B 哲学、宗教](</B 哲学、宗教.md>)
