@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X 环境科学、安全科学/X-1 环境科学技术现状与发展.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "X-1 环境科学技术现状与发展"
+              "title": "README"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 中国图书馆分类法/G 文化、科学、教育、体育/G3 科学、科学研究/G35 情报学、情报工作/G354 情报检索.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for G354 情报检索"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -164,8 +164,7 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -184,12 +183,13 @@
   },
   "active": "045c8d4916567b93",
   "lastOpenFiles": [
+    "中国图书馆分类法.md",
+    "X 环境科学、安全科学/X-1 环境科学技术现状与发展.md",
     "X 环境科学、安全科学/X-6 环境保护参考工具书.md",
     "X 环境科学、安全科学/X3 环境保护管理.md",
     "X 环境科学、安全科学/X9 安全科学.md",
     "X 环境科学、安全科学/X8 环境质量评价与环境监测.md",
     "X 环境科学、安全科学/X5 环境污染及其防治.md",
-    "中国图书馆分类法.md",
     "README.md",
     "P 天文学、地球科学.md",
     "Z 综合性图书.md",
@@ -211,7 +211,6 @@
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥662 所罗门人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥661 斐济人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥61 澳大利亚、新西兰和巴布亚新几内亚民族/⑥613.2 塔皮罗人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥61 澳大利亚、新西兰和巴布亚新几内亚民族/⑥613.1 巴布亚人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥61 澳大利亚、新西兰和巴布亚新几内亚民族",
