@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "T 工业技术/TP 自动化技术、计算机技术/TP391.6 教学机、学习机.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "TP391.6 教学机、学习机"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HashTag",
+                "query": "TN944+.6 镜扫描系统",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 408.5
   },
   "right": {
     "id": "248edb370989b8cb",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "T 工业技术/TP 自动化技术、计算机技术/TP391.6 教学机、学习机.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for TP391.6 教学机、学习机"
             }
           },
           {
@@ -183,6 +183,33 @@
   },
   "active": "045c8d4916567b93",
   "lastOpenFiles": [
+    "T 工业技术/TP 自动化技术、计算机技术/TP391 信息处理（信息加工）.md",
+    "T 工业技术/TP 自动化技术、计算机技术/TP391.8 控制机.md",
+    "B 哲学、宗教/B1 世界哲学.md",
+    "B 哲学、宗教/[B019.2] 唯心主义.md",
+    "T 工业技术/TN 无线电电子学、电信技术/TN944 电视扫描系统.md",
+    "P 天文学、地球科学.md",
+    "assets/pictures/ctvaultpreview/ct-preview-04-01.png",
+    "assets/pictures/ctvaultpreview/ct-preview-03-01.png",
+    "assets/pictures/ctvaultpreview/ct-preview-02-03.png",
+    "assets/pictures/ctvaultpreview/ct-preview-01-06.png",
+    "assets/pictures/ctvaultpreview/ct-preview-01-05.png",
+    "assets/pictures/ctvaultpreview",
+    "assets/pictures/clcwebsitepreview/screencapture-clc-nlc-cn-ztfdsb-jsp-2025-06-05-13_18_53.png",
+    "assets/pictures/clcwebsitepreview",
+    "assets/pictures/clcitemicon/中国图书馆分类法/HK_Wan_Chai_Library_Inside_Bookcase_a.jpg",
+    "assets/pictures/clcitemicon/中国图书馆分类法",
+    "assets/pictures/clcitemicon/Z 综合性图书/Z 综合性图书 - Pasted image 20251004154559.png",
+    "assets/pictures/clcitemicon/Z 综合性图书",
+    "assets/pictures/clcitemicon/X 环境科学、安全科学/X 环境科学、安全科学 - Pasted image 20251004154439.png",
+    "assets/pictures/clcitemicon/X 环境科学、安全科学",
+    "assets/pictures/clcitemicon/V 航空、航天/V 航空、航天 - Pasted image 20251004154307.png",
+    "assets/pictures/clcitemicon/V 航空、航天",
+    "assets/pictures/clcitemicon/U 交通运输",
+    "assets/pictures/clcitemicon/T 工业技术",
+    "assets/pictures/clcitemicon/S 农业科学",
+    "assets/pictures/clcitemicon/R 医药、卫生",
+    "README.md",
     "中国图书馆分类法.md",
     "X 环境科学、安全科学/X-1 环境科学技术现状与发展.md",
     "X 环境科学、安全科学/X-6 环境保护参考工具书.md",
@@ -190,12 +217,8 @@
     "X 环境科学、安全科学/X9 安全科学.md",
     "X 环境科学、安全科学/X8 环境质量评价与环境监测.md",
     "X 环境科学、安全科学/X5 环境污染及其防治.md",
-    "README.md",
-    "P 天文学、地球科学.md",
     "Z 综合性图书.md",
     "U 交通运输.md",
-    "preview-2025-05-31-p01.png",
-    "preview-04.png",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人/⑥659 其他密克罗尼西亚人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人/⑥656 吉尔伯特人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人/⑥655 瑙鲁人.md",
@@ -205,25 +228,6 @@
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人/⑥652.2 雅浦人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人/⑥652.1 加罗林人.md",
     "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人/⑥651 查莫罗人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥669 其他美拉尼西亚人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥664 新喀里多尼亚人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥663 瓦努阿图人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥662 所罗门人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥661 斐济人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥61 澳大利亚、新西兰和巴布亚新几内亚民族/⑥613.2 塔皮罗人.md",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥65 密克罗尼西亚人",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥61 澳大利亚、新西兰和巴布亚新几内亚民族",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥63 波利尼西亚人",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥35 南亚民族/⑥351 印度民族",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥373 伊朗人（波斯人）",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥371 阿拉伯人",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥37 西亚民族/⑥372 阿富汗人",
-    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥3 亚洲民族/⑥33 东南亚民族/⑥342 印度尼西亚人",
-    "assets/preview-03.png",
-    "Pasted image 20250529104627.png",
-    "assets/preview-02.png",
-    "assets/preview-01.png"
+    "Z 综合性图书/ZY_ 附表/⑥ 世界种族与民族表/⑥6 大洋洲民族/⑥66 美拉尼西亚人/⑥669 其他美拉尼西亚人.md"
   ]
 }
